@@ -236,3 +236,12 @@ AGENTS.md.backup
 # SQLite WAL/SHM temp files (test databases)
 test.sqlite3-shm
 test.sqlite3-wal
+
+# MCP config files (contain bearer tokens)
+.mcp.json
+opencode.json
+cline.mcp.json
+windsurf.mcp.json
+codex.mcp.json
+cursor.mcp.json
+gemini.mcp.json
